@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/letsface/social-network/issues"
   },
-  "homepage": "https://github.com/letsface/social-network"
+  "homepage": "https://github.com/letsface/social-network",
+  "dependencies": {
+    "fb": "^0.7.0"
+  }
 }
